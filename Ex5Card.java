@@ -15,19 +15,6 @@
  */
 
 
-
-
-
-
-
-package CSE3120OOP;
-
-
-
-
-
-
-
 public class Ex5Card {
 
 
