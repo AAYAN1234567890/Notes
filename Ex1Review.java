@@ -2,7 +2,7 @@
 
 /*
 
- * Title: Board Game Collection
+ * Title: Board Game Collection	
 
  * Author: Aayan Samdani
 
@@ -11,14 +11,12 @@
  */
 
 
- package CSE3120OOP;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
 	
 
-public class EX1Review {
+public class Ex1Review {
 
 	public static Scanner scanner = new Scanner (System.in);
 

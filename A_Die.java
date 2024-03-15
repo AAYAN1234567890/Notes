@@ -16,15 +16,9 @@
 
 
 
-package CSE3120OOP;
-
-
-
 import java.util.Scanner;
 
 import java.util.Random;
-
-
 
 public class A_Die {
 
@@ -188,11 +182,11 @@ public class A_Die {
 
 		System.out.println("Score: " + score);
 
-		
+		scanner.close();
 
 	}
 
-
+	
 
 }
 

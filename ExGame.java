@@ -17,16 +17,11 @@
 
 
 
-
-package CSE3120OOP;
-
-
-
 import java.util.Scanner;
 
 
 
-public class Ex4Game {
+public class ExGame {
 
 	private Ex3Player player1 = new Ex3Player();
 
@@ -124,7 +119,7 @@ public class Ex4Game {
 
 	public static void main(String[] args) {
 
-		Ex4Game game = new Ex4Game();
+		ExGame game = new ExGame();
 
 		game.setup();
 

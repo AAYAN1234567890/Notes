@@ -9,11 +9,6 @@
  */
 
 
-
-package CSE3120OOP;
-
-
-
 import java.util.Scanner;
 
 import java.util.ArrayList;
